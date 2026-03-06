@@ -8,20 +8,20 @@ Generative AI Internship
 
 ## 🛠️ Technologies Used
 
-# - Python
+- Python
 
-PyTorch
+- PyTorch
 
-Hugging Face Transformers
+- Hugging Face Transformers
 
-GPT-2 Pretrained Model
+- GPT-2 Pretrained Model
 
 ## ⚙️ Features
 
-Accepts custom prompts from the user
+- Accepts custom prompts from the user
 
-Generates context-aware text
+- Generates context-aware text
 
-Uses temperature, top-k, and top-p sampling
+- Uses temperature, top-k, and top-p sampling
 
-Simple implementation for learning Generative AI concepts
+- Simple implementation for learning Generative AI concepts
